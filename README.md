@@ -17,7 +17,7 @@ Ghost 的内容写作及编辑就和 Email 的体验差不多，界面左边是�
 
 ``安装并运行 Ghost``
 
-登录到 http://ghost.org，然后点击蓝色的 'Download Ghost Source Code' 按钮
+登录到 http://ghost.org   然后点击蓝色的 'Download Ghost Source Code' 按钮
 在下载页，点击下载最新的 zip 压缩文件然后将文件解压到你想运行 Ghost 的地方
 
 如果你以 guest 身份登陆的 linux 或者以 SSH 远程连接只有终端，那么：
